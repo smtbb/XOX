@@ -1,0 +1,18 @@
+
+/* Class = "UIButton"; configuration.title = "ÇIKIŞ"; ObjectID = "3nU-Qg-2AU"; */
+"3nU-Qg-2AU.configuration.title" = "ÇIKIŞ";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "3nU-Qg-2AU"; */
+"3nU-Qg-2AU.normalTitle" = "Button";
+
+/* Class = "UIButton"; configuration.title = "OYNA"; ObjectID = "NJV-qC-zxc"; */
+"NJV-qC-zxc.configuration.title" = "OYNA";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "NJV-qC-zxc"; */
+"NJV-qC-zxc.normalTitle" = "Button";
+
+/* Class = "UIButton"; configuration.title = "AYARLAR"; ObjectID = "wWa-9V-lT5"; */
+"wWa-9V-lT5.configuration.title" = "AYARLAR";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "wWa-9V-lT5"; */
+"wWa-9V-lT5.normalTitle" = "Button";
